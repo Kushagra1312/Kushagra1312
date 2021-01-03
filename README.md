@@ -4,7 +4,7 @@
 
 I am a sophmore currently pursuing my undergrad in Computer Engineering from Delhi Technological University, India.
 <br>
-My main interests lies in general SWE and Machine Learning/Deep Learning. I sometimes play badminton 🏸, and can never say no to a good read 📚.
+My main interests lies in general SWE and Machine Learning/Deep Learning. I sometimes play badminton 🏸 and very fond of 🐶. 
 <ul>
   <li> 🔭 I’m currently exploring the field of Machine Learning and Deep Learning.</li>
   <li> 👯 I’m looking to collaborate on any cool Project related to Deep learning.</li>

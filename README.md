@@ -13,5 +13,5 @@ My main interests lies in general SWE and Machine Learning/Deep Learning.
  </ul>
  
  <h3>Connect With Me</h3>
-<li><a href="https://www.linkedin.com/in/kushagra-gupta-47b312197">Linkedin</a></li>
+<li><a href="https://www.linkedin.com/in/kushagra-gupta-47b312197/">Linkedin</a></li>
 <li><a href = "mailto: gkushagra48@gmail.com">Gmail</a></li>

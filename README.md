@@ -2,7 +2,7 @@
 
 <!--**Kushagra1312/Kushagra1312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
-I am 3rd year student currently pursuing my bachelor's in Computer Engineering from Delhi Technological University, India.
+I am a final year student currently pursuing my bachelor's in Computer Engineering from Delhi Technological University, India.
 <br>
 My main interests lies in general SWE and Machine Learning/Deep Learning. I sometimes play badminton 🏸 and very fond of 🐶. 
 <br>

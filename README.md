@@ -4,10 +4,10 @@
 
 I am a final year student currently pursuing my bachelor's in Computer Engineering from Delhi Technological University, India.
 <br>
-My main interests lies in general SWE and Machine Learning/Deep Learning. I sometimes play badminton 🏸 and very fond of 🐶. 
+My main interests lies in backend and frontend development. I sometimes play badminton 🏸 and very fond of 🐶. 
 <br>
 <ul>
-  <li> 🔭 I’m currently exploring the field of Machine Learning and Deep Learning.</li>
+  <li> 🔭 I’m currently exploring the field of backend development.</li>
   <li> 👯 I’m looking to collaborate on any cool Project related to Deep learning.</li>
   <li> 🎆 I'm Open for New Opportunities.
   <li> 😄 Pronouns: He/Him</li>
